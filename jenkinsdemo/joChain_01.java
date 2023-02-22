@@ -1,10 +1,11 @@
 package jenkinsdemo;
 
-public class HelloWorld {
+public class joChain_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello world through maven new###@@@@");
+		System.out.println("this is job chain01");
+
 
 	}
 
