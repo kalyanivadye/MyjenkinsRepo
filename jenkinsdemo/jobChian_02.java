@@ -1,4 +1,4 @@
-package jenkinsdemo;
+//package jenkinsdemo;
 
 public class jobChian_02 {
 

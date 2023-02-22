@@ -1,11 +1,10 @@
 //package jenkinsdemo;
 
-public class joChain_01 {
+public class Remote {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("this is job chain01");
-
+		System.out.println("this is remote");
 
 	}
 
